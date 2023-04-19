@@ -1,9 +1,10 @@
 <?php
 date_default_timezone_set('America/Sao_Paulo');
     $banco = "igreja";
-    $servidor = "localhost";
-    $user = "root";
-    $password = "";
+    $servidor = "aws.connect.psdb.cloud";
+    $user = "pykbba81ipvg3k8pjvj7";
+    $password = "pscale_pw_XVYFLF7C0ZPervkwGcwBnilwUDixd5tsCdS8bXp6NJp";
+
 
     $email_super_adm = "hugosantospereira11@gmail.com";
     $nome_igreja = "Restitui Church São João de Meriti";
